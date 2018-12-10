@@ -1,7 +1,4 @@
 # cointrage
-
-This summary summarizes our project as well as provides the user with a manual about how to use our GUI. 
-
 The aim of this project was to provide an "arbitrage calculator" that detected arbitrage opportunities for a specified cryptocurrency and tell the user through a graphical user interface. 
 
 Arbitrage is defined as taking advantage of the price difference between two markets. An arbitrage opportunity exists if the price of the same asset is different on two exchanges. For example, assume a user can buy Bitcoin for $4000 on exchange A. Furthermore, assume exchange B wants to buy Bitcoin for $4025. A user can serve as a "market maker" and capture a profit of $25 by buying the coin on exchange A and selling it on exchange B. For financial assets, these arbitrage opportunities are hard to come by because only a few major exchanges exist and heavy regulation. Nevertheless, cryptocurrency arbitrage opportunities exist given that many exchanges, or markets, exist without regulation. Our aim was to build a program that alerted users to these arbitrage opportunities such that anyone could use it and make a profit off of these opportunities. 
