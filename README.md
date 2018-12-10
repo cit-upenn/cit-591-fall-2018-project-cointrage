@@ -11,4 +11,5 @@ Furthermore, one or more arbitrage opportunities may exist for a given coin. Our
 
 Our program does have its limitations given the free version of the API we use. We access the API from CoinAPI.io. The free version has a limitation on how many times you can access the API in a given day. Therefore, an error will occur if you try to use the program alot or call it too many times. If this happens, please just use the API the next day. If a trader chooses to use the program, we recommend paying for a version of the API. 
 
-
+*********PLEASE NOTE**********
+This is our first time using GitHub and we accidently force pushed our final commit which overwrote all of our history of our previous commits and work on our repository. We worked out of a public repository then imported it to this repository. To avoid losing points there are screenshots in our zip file of our gitlog with our history to prove that we have been using gitub periodically. These screenshots are also available on this repository. Thank you.
